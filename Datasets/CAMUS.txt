@@ -1,0 +1,1 @@
+The CAMUS dataset is available at https://www.creatis.insa-lyon.fr/Challenge/camus/
