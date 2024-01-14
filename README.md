@@ -17,15 +17,6 @@ Table: Discriminator's architecture to learn the intensity images' attributes ($
 <img width="779" alt="Discriminator" src="https://github.com/kamruleee51/DdC-AC-DLIR/assets/32570071/218a7e98-aa54-4a2a-a39c-c06542e19d13">
 </p>
 
-### Temporal Registration Results on YouTube
-
-[Temporal Echocardiography Image Registration for Adult A4C Views of CAMUS Dataset](https://www.youtube.com/watch?v=l6ua9Qrc3JE&loop=0)
-
-[Temporal Echocardiography Image Registration for Adult A2C Views of CAMUS Dataset](https://www.youtube.com/watch?v=EXTlyImIGgA&loop=0)
-
-[Temporal Echocardiography Image Registration of Fetal A4C Views of Private Dataset](https://www.youtube.com/watch?v=eGUU-rqWznY&t=3s&loop=0)
-
-
 
 # Codes are uploading soon!!
 
