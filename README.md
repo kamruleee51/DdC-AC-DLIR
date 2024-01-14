@@ -6,7 +6,7 @@
 The architecture of the topological shape encoder to learn the latent vectors of LV and MYO. Conv: Convolution layer with a dilation of 1; BN: Batch normalization for each mini-batch; ReLU: Rectified linear unit; FC: Fully connected layer; TConv: Transpose convolution layer for the upsampling with a dilation of 1; SIG: Sigmoid activation at the output; B: Mini-batch size; and $d$: Latent vector dimension ($\mathcal{Z}^d$).
 </p>
 <p align="center">
-<img width="693" alt="Shape_Encoder" src="https://github.com/kamruleee51/DdC-AC-DLIR/assets/32570071/6c0f7808-27b3-4ea7-baeb-c0968174f82b">
+<img width="750" alt="Shape_Encoder" src="https://github.com/kamruleee51/DdC-AC-DLIR/assets/32570071/6c0f7808-27b3-4ea7-baeb-c0968174f82b">
 </p>
 
 
@@ -14,7 +14,7 @@ The architecture of the topological shape encoder to learn the latent vectors of
 Discriminator's architecture to learn the intensity images' attributes ($I_F$ and $I_W=I_M\circ \varphi$) in adversarial training to retrieve the texture features in the moved intensity images ($I_W=I_M\circ \varphi$). Conv: Convolution layer with a dilation of 1; IN: Instance normalization for each mini-batch; LReLU: Leaky Rectified linear unit; FC: Fully connected layer; SIG: Sigmoid activation at the output; and B: Mini-batch size.
 </p>
 <p align="center">
-<img width="479" alt="Discriminator" src="https://github.com/kamruleee51/DdC-AC-DLIR/assets/32570071/218a7e98-aa54-4a2a-a39c-c06542e19d13">
+<img width="779" alt="Discriminator" src="https://github.com/kamruleee51/DdC-AC-DLIR/assets/32570071/218a7e98-aa54-4a2a-a39c-c06542e19d13">
 </p>
 
 
