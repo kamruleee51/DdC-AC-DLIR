@@ -10,7 +10,7 @@
 
 
 ### Implementation: <br>  
-**Task 1** involves training the mask topology encoder (part of block B) using the provided scripts (**LV:** *VAE_LV.ipynb* and **MYO:** *VAE_LV.ipynb*). All the masks are utilized for training this VAE, and the masks are augmented using the script (*VAE_Augmentation.ipynb*). These augmentations include HorizontalFlip and CenterCrop from the [albumentations library](https://albumentations.ai/). The trained VAE will be used as a pre-trained model and frozen in our proposed DLIR. Examples of the outputs of the VAE for LV and MYO reconstructions are shown below: 
+**Task 1** involves training the mask topology encoder (part of block **B**) using the provided scripts (**LV:** *VAE_LV.ipynb* and **MYO:** *VAE_LV.ipynb*). All the masks are utilized for training this VAE, and the masks are augmented using the script (*VAE_Augmentation.ipynb*). These augmentations include **HorizontalFlip** and **CenterCrop** from the [albumentations library](https://albumentations.ai/). The trained VAE will be used as a pre-trained model and frozen in our proposed DLIR. Examples of the outputs of the VAE for LV and MYO reconstructions are shown below: 
 
 
 
