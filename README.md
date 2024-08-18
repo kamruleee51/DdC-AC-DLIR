@@ -23,6 +23,13 @@
 <img width="700" alt="MYO_masks" src="https://github.com/user-attachments/assets/423e43ea-b4c2-4e50-8a15-be88910fcbc3">
 </p>
 
+In **Task 2**, we use the pre-trained VAE model from Task 1 to extract anatomical topology for the warped and fixed mask. Then, we combine and train blocks **A**, **B**, and **C** for our **Texture-Anatomic-DLIR** using the provided script _Texture_Anatomic_DLIR.ipynb_. For multi-scale training, the network is initially trained with an input resolution of 32x32. Then, this trained model is used as a pre-trained model for the subsequent higher resolutions such as 64x64 and so on (details in the paper). The loss values and corresponding DICE-score improvements should be similar to the following loss/DICE over the epoch.
+
+<p align="justify">
+</p>
+<p align="center">
+<img width="1000" alt="Loss" src="https://github.com/user-attachments/assets/63a73032-cc55-40d6-b57d-0368ebb6982f">
+</p>
 
 **Mandatory citation if this repo is useful:**<br>
 @article{hasan2023multi,<br>
