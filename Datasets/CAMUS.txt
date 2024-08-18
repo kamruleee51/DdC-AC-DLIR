@@ -1,1 +1,9 @@
 The CAMUS dataset is available at https://www.creatis.insa-lyon.fr/Challenge/camus/
+
+
+In a pool of 500 patients, 50 were chosen for testing. These patients, including patient0008, patient0018, 
+patient0028, and so on, were selected for both the 2-chamber and 4-chamber view. 
+
+For the results shown in Table 2, only the end-diastole to end-systole (ED-ES) pairs were considered. 
+As for the temporal results displayed in Table 4, the time sequences were extracted from the 2-chamber and 4-chamber sequences. 
+In terms of temporal registration, for each patient, the first time point served as the fixed image, while the subsequent time points functioned as the moving images.
