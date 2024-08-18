@@ -5,7 +5,7 @@
 <p align="justify">
 </p>
 <p align="center">
-<img width="906" alt="DLIR_model" src="https://github.com/user-attachments/assets/3391636e-9b66-4076-a4d1-b0e65c8f5626">
+<img width="1000" alt="DLIR_model" src="https://github.com/user-attachments/assets/3391636e-9b66-4076-a4d1-b0e65c8f5626">
 </p>
 
 
@@ -14,13 +14,13 @@
 <p align="justify">
 </p>
 <p align="center">
-<img width="561" alt="LV_masks" src="https://github.com/user-attachments/assets/7f388f68-54b7-4c73-aae1-a528b16ef68a">
+<img width="700" alt="LV_masks" src="https://github.com/user-attachments/assets/7f388f68-54b7-4c73-aae1-a528b16ef68a">
 </p>
 
 <p align="justify">
 </p>
 <p align="center">
-<img width="475" alt="MYO_masks" src="https://github.com/user-attachments/assets/423e43ea-b4c2-4e50-8a15-be88910fcbc3">
+<img width="700" alt="MYO_masks" src="https://github.com/user-attachments/assets/423e43ea-b4c2-4e50-8a15-be88910fcbc3">
 </p>
 
 
@@ -30,4 +30,4 @@ MD KAMRUL HASAN || Research Postgraduate (Ph.D.)\
 Department of Bioengineering || Imperial College London (ICL)\
 80 Wood Ln, London W12 7TA, United Kingdom\
 E-mail: k.hasan22@imperial.ac.uk or kamruleeekuet@gmail.com <br>
-Google Scholar: https://scholar.google.com/citations?user=36WXELIAAAAJ&hl=en
+[Google Scholar](https://scholar.google.com/citations?user=36WXELIAAAAJ&hl=en) || [LinkedIn](https://www.linkedin.com/in/md-kamrul-hasan-0903051/) || [Website](https://med-ai.netlify.app/) 
