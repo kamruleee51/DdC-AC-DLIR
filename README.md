@@ -32,6 +32,8 @@ In **Task 2**, we use the pre-trained VAE model from Task 1 to extract anatomica
 <img width="1000" alt="Loss" src="https://github.com/user-attachments/assets/63a73032-cc55-40d6-b57d-0368ebb6982f">
 </p>
 
+[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
 **Mandatory citation if this repo is useful:**<br>
 @article{hasan2023multi,<br>
   title={Multi-scale, Data-driven and Anatomically Constrained Deep Learning Image Registration for Adult and Fetal Echocardiography.},<br>
