@@ -10,7 +10,8 @@
 
 
 ### Implementation: <br>  
-**Task 1** involves training the mask topology encoder (part of block **B**) using the provided scripts (**LV:** *VAE_LV.ipynb* and **MYO:** *VAE_LV.ipynb*). All the masks are utilized for training this VAE, and the masks are augmented using the script (*VAE_Augmentation.ipynb*). These augmentations include **HorizontalFlip** and **CenterCrop** from the [albumentations library](https://albumentations.ai/). The trained VAE will be used as a pre-trained model and frozen in our proposed DLIR. Examples of the outputs of the VAE for LV and MYO reconstructions are shown below: 
+**Task 1** involves training the mask topology encoder (part of block **B**) using the provided scripts (**LV:** *VAE_LV.ipynb* and **MYO:** *VAE_LV.ipynb*). All the masks are utilized for training this VAE, and the masks are augmented using the script (*VAE_Augmentation.ipynb*). These augmentations include **HorizontalFlip** and **CenterCrop** from the [albumentations library](https://albumentations.ai/). The trained VAE will be used as a pre-trained model and frozen in our proposed DLIR. Examples of the outputs of the VAE for LV and MYO reconstructions are shown below:
+  
 <p align="justify">
 </p>
 <p align="center">
@@ -23,7 +24,7 @@
 <img width="700" alt="MYO_masks" src="https://github.com/user-attachments/assets/423e43ea-b4c2-4e50-8a15-be88910fcbc3">
 </p>
 
-In **Task 2**, we use the pre-trained VAE model from Task 1 to extract anatomical topology for the warped and fixed mask. Then, we combine and train blocks **A**, **B**, and **C** for our **Texture-Anatomic-DLIR** using the provided script _Texture_Anatomic_DLIR.ipynb_. For multi-scale training, the network is initially trained with an input resolution of 32x32. Then, this trained model is used as a pre-trained model for the subsequent higher resolutions such as 64x64 and so on (details in the paper). The loss values and corresponding DICE-score improvements should be similar to the following loss/DICE over the epoch.
+In **Task 2**, we use the pre-trained VAE model from Task 1 to extract anatomical topology for the warped and fixed mask. Then, we combine and train blocks **A**, **B**, and **C** for our **Texture-Anatomic-DLIR** using the provided script _Texture_Anatomic_DLIR.ipynb_. For multi-scale training, the network is initially trained with an input resolution of 32x32. Then, this trained model is used as a pre-trained model for the subsequent higher resolutions such as 64x64 and so on (details in the [paper](https://arxiv.org/abs/2309.00831)). The loss values and corresponding DICE-score improvements should be similar to the following loss/DICE over the epoch.
 
 <p align="justify">
 </p>
