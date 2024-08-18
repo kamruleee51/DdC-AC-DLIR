@@ -24,6 +24,14 @@
 </p>
 
 
+**Mandatory citation if this repo is useful:**<br>
+@article{hasan2023multi,<br>
+  title={Multi-scale, Data-driven and Anatomically Constrained Deep Learning Image Registration for Adult and Fetal Echocardiography.},<br>
+  author={Hasan, Md Kamrul and Zhu, Haobo and Yang, Guang and Yap, Choon Hwai},<br>
+  journal={arXiv preprint arXiv:2309.00831},<br>
+  year={2023}<br>
+}
+
 
 ### Contact: <br>
 MD KAMRUL HASAN || Research Postgraduate (Ph.D.)\
