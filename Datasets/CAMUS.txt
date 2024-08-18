@@ -1,5 +1,19 @@
 The CAMUS dataset is available at https://www.creatis.insa-lyon.fr/Challenge/camus/
 
+Citation:
+@article{leclerc2019deep,
+  title={Deep learning for segmentation using an open large-scale dataset in 2D echocardiography},
+  author={Leclerc, Sarah and Smistad, Erik and Pedrosa, Joao and {\O}stvik, Andreas and Cervenansky, Frederic and Espinosa, Florian and Espeland, Torvald and Berg, Erik Andreas Rye and Jodoin, Pierre-Marc and Grenier, Thomas and others},
+  journal={IEEE transactions on medical imaging},
+  volume={38},
+  number={9},
+  pages={2198--2210},
+  year={2019},
+  publisher={IEEE}
+}
+
+
+
 
 In a pool of 500 patients, 50 were chosen for testing. These patients, including patient0008, patient0018, 
 patient0028, and so on, were selected for both the 2-chamber and 4-chamber view. 
