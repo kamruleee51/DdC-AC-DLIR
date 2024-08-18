@@ -13,8 +13,6 @@ Citation:
 }
 
 
-
-
 In a pool of 500 patients, 50 were chosen for testing. These patients, including patient0008, patient0018, 
 patient0028, and so on, were selected for both the 2-chamber and 4-chamber view. 
 
