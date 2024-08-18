@@ -32,12 +32,13 @@ In **Task 2**, we use the pre-trained VAE model from Task 1 to extract anatomica
 <img width="1000" alt="Loss" src="https://github.com/user-attachments/assets/63a73032-cc55-40d6-b57d-0368ebb6982f">
 </p>
 
-### Video Results: <br>  
+### Video Results (YouTube): <br>  
 <div align="left">
       <a href="https://www.youtube.com/watch?v=EXTlyImIGgA">
          <img src="https://github.com/user-attachments/assets/a1f7b964-e464-462c-81dc-f3b1f581ff22" style="width:80%;">
       </a>
 </div>
+
 
 **Mandatory citation if this repo is useful:**<br>
 @article{hasan2023multi,<br>
